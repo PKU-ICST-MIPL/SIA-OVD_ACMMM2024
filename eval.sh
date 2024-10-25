@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=4,5,6,7 bash configs/COCO/RN50.sh RN50_10adapter_test 4 local --resume weights/10adapter_RM50_best.pth --eval

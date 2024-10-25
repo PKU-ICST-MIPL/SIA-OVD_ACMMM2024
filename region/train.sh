@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=4,5,6,7 bash configs/COCO_RN50x4.sh RN50x4_region_10adapter 4 local
